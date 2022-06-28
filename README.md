@@ -1,4 +1,4 @@
-# Impl-mentation-d-un-auto-encodeur-convolutif_D-bruitage-d-image
+# Implémentation d'un auto-encodeur convolutif_Débruitage d'image
 
 L’objectif de ce TP est de se familiariser avec les architectures auto-encodeur, en implémentant un premier réseau de neurone en TensorFlow sur une tâche de débruitage d’image issues du dataset MNIST.
 
